@@ -5,7 +5,7 @@ import Cover from "@/components/Cover";
 
 export default function Home() {
   return (
-    <div className="relative mt-20 z-0 w-full overflow-hidden bg-opacity-75 bg-[url('https://www.governorsindh.com/bg_house.jpg')] bg-cover">
+    <div className="relative md:mt-[76px] sm:mt-16 mt-14 z-0 w-full overflow-hidden bg-opacity-75 bg-[url('https://www.governorsindh.com/bg_house.jpg')] bg-cover">
     <Header />
     <div id="container" className="absolute inset-0 -z-50 h-full w-full bg-zinc-100 bg-opacity-80"></div>
 
