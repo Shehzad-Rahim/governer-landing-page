@@ -46,7 +46,7 @@ function Header() {
       </ul>
       
       <Sheet>
-  <SheetTrigger>
+  <SheetTrigger className='sm:hidden'>
     <IoMenu className='sm:hidden block text-3xl absolute right-3 top-4 cursor-pointer' />
   </SheetTrigger>
   <SheetContent className='bg-[#044e83]'>

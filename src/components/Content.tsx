@@ -2,7 +2,7 @@ import React from 'react'
 
 function Content() {
   return (
-    <div className='h-fit w-full pt-7 text-[#044e83] md:text-start text-center'>
+    <div className='h-fit w-full pt-7 xl:ml-20 text-[#044e83] md:text-start text-center'>
       <h1 className='lg:text-[3.7rem] sm:text-[3rem] text-[2rem] whitespace-nowrap font-extrabold leading-none '>Governer Sindh</h1>
       <h1 className='sm:text-[2.7rem] text-[1.7rem] whitespace-nowrap font-normal'>Kamran Khan Tessori</h1>
       <h1 className='mt-5 leading-tight text-[#2eb6e8] sm:text-[2.5rem] text-[1.7rem] whitespace-nowrap font-bold'>
